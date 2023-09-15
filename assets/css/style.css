@@ -705,6 +705,15 @@ body.nav-active { overflow: hidden; }
   visibility: visible;
 }
 
+.slider-con-one{
+  top: 50%;
+  left:40%;
+  display: absolute;
+  width: 5rem;
+  height:10rem;
+  
+}
+
 .hero .slider-bg {
   position: absolute;
   top: 0;
